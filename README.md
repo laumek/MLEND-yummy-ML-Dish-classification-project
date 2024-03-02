@@ -1,2 +1,2 @@
-# MLEND-project
-Prediction of dishes attributes from pictures of them
+# MLEND-yummy-ML-Dish-classification-project
+
