@@ -14,7 +14,7 @@ The basic problem we want to solve here is predicting if an input image contains
 
 🥑 **Healthiness rating (Advanced Component)**
 
-Here, the 🌱advanced problem is to predict a dish healthiness score using dish attributes (name, ingredients) and nutritional information obtained from food-linked APIs and web scraping. When an image is inputted, relevant attributes are extracted and a healthiness prediction is made. The predictions will then be compared with existing ratings for very similar dishes for evaluation and discussion around model accuracy and user perceptions of dish healthiness. 
+Here, the advanced problem is to predict a dish healthiness score using dish attributes (name, ingredients) and nutritional information obtained from food-linked APIs and web scraping. When an image is inputted, relevant attributes are extracted and a healthiness prediction is made. The predictions will then be compared with existing ratings for very similar dishes for evaluation and discussion around model accuracy and user perceptions of dish healthiness. 
 
 
 🌱 **Key valuable learnings from this project**
